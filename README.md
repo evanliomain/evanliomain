@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cover](https://github.com/evanliomain/evanliomain/blob/main/img/sfeir-banner.png)
 
 <!--
 **evanliomain/evanliomain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
